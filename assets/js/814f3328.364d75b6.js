@@ -1,1 +1,0 @@
-(self.webpackChunkhello_docusauras=self.webpackChunkhello_docusauras||[]).push([[535],{6353:function(l){"use strict";l.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/hello-docusauras/blog/welcome"},{"title":"Hello","permalink":"/hello-docusauras/blog/hello-world"},{"title":"Hola","permalink":"/hello-docusauras/blog/hola"}]}')}}]);
