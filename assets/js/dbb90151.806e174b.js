@@ -1,0 +1,1 @@
+(self.webpackChunkhello_docusauras=self.webpackChunkhello_docusauras||[]).push([[896],{9551:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/hello-docusauras/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/hello-docusauras/blog/tags/hello"}')}}]);
